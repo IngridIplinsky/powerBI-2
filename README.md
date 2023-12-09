@@ -8,11 +8,11 @@
 
 ## Modelo Relacional
 <p align="center">
-  <img alt="BA" width="65%" src="https://github.com/IngridIplinsky/powerBI-2/blob/main/der_universidade.png">
+  <img alt="BA" width="80%" src="https://github.com/IngridIplinsky/powerBI-2/blob/main/der_universidade.png">
 </p>
 
-###### Modelo Star Schema
+## Modelo Star Schema
 <p align="center">
-  <img alt="BA" width="65%" src="https://github.com/IngridIplinsky/powerBI-2/blob/main/Star%20Schema%20ProfessorDisciplinas.PNG">
+  <img alt="BA" width="70%" src="https://github.com/IngridIplinsky/powerBI-2/blob/main/Star%20Schema%20ProfessorDisciplinas.PNG">
 </p>
 
