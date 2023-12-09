@@ -7,5 +7,5 @@
  - Desenvolvido a tabela Fato contendo a relação entre as dimensões.
 
 <p align="center">
-  <img alt="BA" width="65%" src="">
+  <img alt="BA" width="65%" src="https://github.com/IngridIplinsky/powerBI-2/blob/main/der_universidade.png">
 </p>
