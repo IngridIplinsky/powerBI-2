@@ -6,6 +6,13 @@
  - O foco do modelo está na relação das dimessões Professor, Curso, Disciplina e Departamento.
  - Desenvolvido a tabela Fato contendo a relação entre as dimensões.
 
+##### [Modelo Relacional]
 <p align="center">
   <img alt="BA" width="65%" src="https://github.com/IngridIplinsky/powerBI-2/blob/main/der_universidade.png">
 </p>
+
+##### [Modelo Star Schema]
+<p align="center">
+  <img alt="BA" width="65%" src="[https://github.com/IngridIplinsky/powerBI-2/blob/main/der_universidade.png](https://github.com/IngridIplinsky/powerBI-2/blob/main/Star%20Schema%20ProfessorDisciplinas.PNG)">
+</p>
+
