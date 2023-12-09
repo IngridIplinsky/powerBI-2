@@ -2,7 +2,7 @@
 [![author](https://img.shields.io/badge/author-ingridiplinsky-red)](https://www.linkedin.com/in/ingridiplinsky/) ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
 ### [**Modelagem Star Schema**](https://github.com/ingridiplinsky/powerBI-2/)
- - **Desenvolvimento do modelo Star Schema**, a partir do modelo relacional fornecido pela instrutora Juliana Mascarenhas.
+ - **Desenvolvimento do modelo Star Schema**, a partir do modelo relacional fornecido pela instrutora Juliana Mascarenhas, formação Power BI Analyst da DIO.
  - O foco do modelo está na relação das dimessões Professor, Curso, Disciplina e Departamento.
  - Desenvolvido a tabela Fato contendo a relação entre as dimensões.
 
